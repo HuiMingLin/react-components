@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/HuiMingLin/react-components.git/main.32338db065029fcae199.bundle.js",
+    "main.js.map": "/HuiMingLin/react-components.git/main.32338db065029fcae199.bundle.js.map",
+    "runtime~main.js": "/HuiMingLin/react-components.git/runtime~main.32338db065029fcae199.bundle.js",
+    "runtime~main.js.map": "/HuiMingLin/react-components.git/runtime~main.32338db065029fcae199.bundle.js.map",
+    "vendors~main.js": "/HuiMingLin/react-components.git/vendors~main.32338db065029fcae199.bundle.js",
+    "vendors~main.js.map": "/HuiMingLin/react-components.git/vendors~main.32338db065029fcae199.bundle.js.map",
+    "iframe.html": "/HuiMingLin/react-components.git/iframe.html",
+    "precache-manifest.59fd7b7b3a81f1f1caf047d8e346e623.js": "/HuiMingLin/react-components.git/precache-manifest.59fd7b7b3a81f1f1caf047d8e346e623.js",
+    "service-worker.js": "/HuiMingLin/react-components.git/service-worker.js",
+    "vendors~main.32338db065029fcae199.bundle.js.LICENSE.txt": "/HuiMingLin/react-components.git/vendors~main.32338db065029fcae199.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.32338db065029fcae199.bundle.js",
+    "vendors~main.32338db065029fcae199.bundle.js",
+    "main.32338db065029fcae199.bundle.js"
+  ]
+}
