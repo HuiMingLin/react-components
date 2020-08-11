@@ -14,12 +14,12 @@ export const UploadList: FC<UploadListProps> = (props) => {
   } = props
 
   return (
-    <ul className="viking-upload-list">
+    <ul className="upload-list">
       {fileList.map(item => {
         return (
-          <li className="viking-upload-list-item" key={item.uid}>
+          <li className="upload-list-item" key={item.uid}>
             <span className={`file-name file-name-${item.status}`}>
-              <Icon icon="file-alt" theme="secondary" />
+              <Icon icon="file-alt" />
               {item.name}
             </span>
             <span className="file-status">
